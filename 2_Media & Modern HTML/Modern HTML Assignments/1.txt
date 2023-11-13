@@ -1,0 +1,24 @@
+1. List out the features of HTML5.
+
+Ans:  Sure, here are some key features of HTML5 :
+
+1. Semantic Elements:HTML5 introduces new tags like `<header>`, `<footer>`, `<article>`, and `<section>` to better describe the structure and content of a webpage.
+
+2. Audio and Video Support: HTML5 has built-in support for audio and video, eliminating the need for third-party plugins. You can use the `<audio>` and `<video>` tags to embed media.
+
+3. Canvas: The `<canvas>` element allows you to draw graphics, charts, and animations directly on the webpage using JavaScript.
+
+4. Local Storage: HTML5 provides a way to store data locally on the user's device using the `localStorage` API. This is useful for creating offline web applications.
+
+5. Geolocation: With the Geolocation API, you can get the user's location, enabling location-based services or customizing content based on their geographic position.
+
+6. Form Enhancements:** New input types like `email`, `url`, `tel`, and `date` make it easier to capture specific types of user input. The `<datalist>` element allows for predefined options in a dropdown.
+
+7.Responsive Design: HTML5 supports responsive web design, making it easier to create websites that adapt to different screen sizes and devices.
+
+8.Web Storage: In addition to `localStorage`, HTML5 introduces `sessionStorage`, which stores data for the duration of a page session.
+
+9.Web Workers: Web Workers allow you to run scripts in the background, preventing the main thread from being blocked and improving performance in web applications.
+
+10.Offline Web Applications: HTML5 provides features like the Application Cache and Service Workers, enabling web applications to work offline and provide a better user experience.
+
